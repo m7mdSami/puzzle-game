@@ -4,4 +4,4 @@ puzzle game is a simple game created by web language ( Html 5 - Canvas - Javascr
 
 ## Demo
 
-You can see demo from this link [Puzzle Game](https://https://www.m7mdsami.com/PuzzleGame).
+You can see demo from this link [Puzzle Game](https://www.m7mdsami.com/PuzzleGame).
